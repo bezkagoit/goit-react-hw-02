@@ -1,0 +1,28 @@
+.optionsContainer {
+  padding: 20px 0;
+}
+
+.listOptionsButton {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.optionsButton {
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  border-radius: 6px;
+  max-width: 64px;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.optionsButton:hover,
+.optionsButton:focus {
+  transform: scale(1.08);
+}

@@ -1,0 +1,14 @@
+.titleDescription {
+  font-size: 30px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  color: black;
+  padding: 10px 0;
+}
+.textDescription {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
